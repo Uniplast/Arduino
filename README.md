@@ -3,4 +3,4 @@ In order to include these libraries into your Arduino IDE, just download the par
 
 If there are any extra steps needed to make a certain library work, then I will include a README file inside that particular library.
 
-These libraries use a GPT 3.0 license, so you're free to use/modify them however you wish as long as you give me a mention in your project/code.
+These libraries use a GPT 3.0 license, so you're free to use/modify them however you wish as long as you give me a mention in your project/code. Or don't. I'm a text file, not a cop :P
