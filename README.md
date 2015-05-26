@@ -1,5 +1,5 @@
 This repository will contain all libraries I write for the Arduino.
-In order to include these libraries into your Arduino IDE, just download the particular library you want as a .zip file, extract it, and then copy the folder into your /Documents/Arduino/libraries folder.
+In order to include these libraries into your Arduino IDE, just download the particular library you want as a .zip file, extract it, and then copy the folder into your /Documents/Arduino/libraries folder. You can also follow the library installation instructions from here: http://www.arduino.cc/en/Guide/Libraries
 
 If there are any extra steps needed to make a certain library work, then I will include a README file inside that particular library.
 
