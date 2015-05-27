@@ -1,0 +1,10 @@
+DLinkedList	KEYWORD1
+isEmpty	KEYWORD2
+first	KEYWORD2
+last	KEYWORD2
+getAt	KEYWORD2
+addFront	KEYWORD2
+addEnd	KEYWORD2
+removeFront	KEYWORD2
+removeEnd	KEYWORD2
+printList	KEYWORD2
