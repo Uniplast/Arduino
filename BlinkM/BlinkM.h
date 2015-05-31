@@ -33,16 +33,15 @@ public:
 	void scanAddresses();
 	void scanAddresses(int scanDelay);
 private:
-	TwoWire wireObject;
+
+#if defined (__SAM3X8E__)
+	TwoWire wireObject = Wire1;
+#else
+	TwoWire wireObject = Wire;
+#endif
 };
 
 BlinkM::BlinkM() {
-	wireObject = Wire;
-
-#if defined (__SAM3X8E__)
-	wireObject = Wire1;
-#endif
-
 	wireObject.begin();
 }
 
