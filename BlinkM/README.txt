@@ -1,5 +1,6 @@
 This library allows users to control the BlinkM RGB LEDs with relative ease. 
 Here's the link to the BlinkM site: http://thingm.com/products/blinkm/
+The PDF data sheet for these lights can be found here: http://thingm.com/fileadmin/thingm/downloads/BlinkM_datasheet.pdf
 This library should be compatible with all Arsuino boards, including the Due. 
 
 To use this library, declare a BlinkM control object like this:
