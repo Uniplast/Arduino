@@ -1,5 +1,5 @@
 //This BlinkM library was created by Eric Townsend. Using this code is free. You may modify and use this code however you want.
-//If you do use this code, if would be nice to mention me :)
+//If you do use this code, it would be nice to mention me :)
 
 //This library uses the Wire1 pins on the Due, and Wire for everything else.
 //This library should be compatible with all Arduino SDK versions.
