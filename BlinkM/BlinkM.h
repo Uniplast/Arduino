@@ -13,7 +13,10 @@
 
 class BlinkM {
 public:
-	BlinkM();	//Default constructor.
+
+	//Default constructor.
+	BlinkM();
+
 	void setRGB(uint8_t addr, uint8_t R, uint8_t G, uint8_t B);
 
 	void fadeRGB(uint8_t addr, uint8_t R, uint8_t G, uint8_t B);
@@ -49,6 +52,7 @@ public:
 	void scanAddresses();
 
 	void scanAddresses(int scanDelay);
+
 private:
 
 #if defined (__SAM3X8E__)
